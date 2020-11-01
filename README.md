@@ -1,0 +1,3 @@
+# image-proccessing
+edge_stress.cでpgmファイルのエッジ強調を行い、nichika.cでpgmファイルの二値化を行う。
+edge_stress.cで処理した画像をnichika.cで処理すると輪郭が0と１で表された画像が出力される。
